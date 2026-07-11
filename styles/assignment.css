@@ -137,3 +137,147 @@ nav ul {
     font-size: 0.9rem;
     color: #6b7280;
 }
+
+/* price section */
+
+.price-parent {
+    padding: 60px 20px;
+    font-family: "Inter", sans-serif;
+}
+
+.price-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.price-container>h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.price-container>p {
+    text-align: center;
+    font-size: 0.8rem;
+    margin-bottom: 50px;
+}
+
+.price-cards {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.price-card p {
+    font-size: 0.6rem;
+}
+
+.text-list ul li {
+    font-size: 0.6rem;
+    margin-bottom: 7px;
+}
+
+.text-list ul {
+    margin-top: 50px;
+}
+
+.price-card {
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 10px;
+    padding: 30px 30px;
+    width: 200px;
+}
+
+.standard-btn {
+    border: 1px solid #2563eb;
+    background-color: white;
+    color: #2563eb;
+    /* padding: 12px 30px; */
+    border-radius: 5px;
+    font-family: "Inter", sans-serif;
+    /* text-align: center; */
+    font-size: 0.6rem;
+    font-weight: 700;
+    width: 180px;
+    height: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.btn-alignment {
+    text-align: center;
+}
+
+
+.team-btn {
+    border: 1px solid #0D1B2A;
+    background-color: white;
+    color: #0D1B2A;
+    /* padding: 12px 30px; */
+    border-radius: 5px;
+    font-family: "Inter", sans-serif;
+    /* text-align: center; */
+    font-size: 0.6rem;
+    font-weight: 700;
+    width: 180px;
+    height: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.pro-btn {
+    border: 1px solid #2563eb;
+    background-color: #2563EB;
+    color: #FFFFFF;
+    /* padding: 12px 30px; */
+    border-radius: 5px;
+    font-family: "Inter", sans-serif;
+    /* text-align: center; */
+    font-size: 0.6rem;
+    font-weight: 700;
+    width: 180px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.general {
+    background-color: #f6f6f6f0;
+}
+
+.general>p {
+    color: #888888;
+}
+
+.general ul li {
+    color: #333333;
+}
+
+.stn-p1 {
+    margin-bottom: 6px;
+}
+
+.stn-p2 {
+    margin-top: 5px;
+}
+
+.different {
+    background-color: #0D1B2A;
+}
+
+.different .blue {
+    color: #93C5FD;
+    margin-bottom: 6px;
+}
+
+.different .white {
+    color: #FFFFFF;
+    margin-top: 5px;
+}
+
+.different ul li {
+    color: #FFFFFF;
+}
+
+.different h2 {
+    color: #FFFFFF;
+}
