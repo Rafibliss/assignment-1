@@ -147,7 +147,7 @@ nav ul {
 
 .price-container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .price-container>h2 {
@@ -206,6 +206,7 @@ nav ul {
 
 .btn-alignment {
     text-align: center;
+
 }
 
 li::marker {
@@ -242,6 +243,7 @@ li::marker {
     width: 180px;
     height: 30px;
     margin-top: 15px;
+    cursor: pointer;
 }
 
 .general {
