@@ -6,3 +6,4 @@
  i starting the coding on my own . i will ask u when i need help
  review my html code structutre then i will move to css
  have fixed those things . i will work with css tomorrow
+ why my marked part isnt coming to the center ? this is the css code i have done so far
