@@ -375,3 +375,69 @@ li::marker {
 .ai-card:hover .icon {
     transform: scale(1.15);
 }
+
+/* footer starts */
+.foot-parent {
+    padding: 15px 0px;
+    margin: auto;
+    background-color: #0D1B2A;
+}
+
+.foot-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: #0D1B2A; */
+    padding: 0px 20px;
+    padding-bottom: 20px;
+}
+
+.logo {
+    color: white;
+    display: flex;
+    gap: 10px;
+}
+
+.socials {
+    color: white;
+    font-size: 20px;
+}
+
+.logo h2 {
+    font-family: "Inter", sans-serif;
+}
+
+.logo img {
+    width: 30px;
+    height: 30px;
+    padding-top: 9px;
+}
+
+.conf-name {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    font-size: 0.8rem;
+}
+
+footer hr {
+    border: none;
+    height: 1px;
+    margin: 0 70px;
+
+    background-color: #888888;
+}
+
+.copyright {
+    color: #969696;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 80px;
+}
+
+.terms {
+    display: flex;
+    gap: 25px;
+}
